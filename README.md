@@ -4,11 +4,11 @@
 	<a href="./LICENSE">
 		<img alt="License" src="https://img.shields.io/badge/license-GPL-blue?color=7aca00"/>
 	</a>
-	<a href="https://github.com/LordsTrident/jsoncxx/issues">
-		<img alt="Issues" src="https://img.shields.io/github/issues/LordsTrident/jsoncxx?color=0088ff"/>
+	<a href="https://github.com/LordOfTrident/jsoncxx/issues">
+		<img alt="Issues" src="https://img.shields.io/github/issues/LordOfTrident/jsoncxx?color=0088ff"/>
 	</a>
-	<a href="https://github.com/LordsTrident/jsoncxx/pulls">
-		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/LordsTrident/jsoncxx?color=0088ff"/>
+	<a href="https://github.com/LordOfTrident/jsoncxx/pulls">
+		<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/LordOfTrident/jsoncxx?color=0088ff"/>
 	</a>
 	<br><br><br>
 	<img width="500px" src="pic/logo.png"/>
